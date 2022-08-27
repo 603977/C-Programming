@@ -1,0 +1,6 @@
+#include<stdio.h> // inclusion of header file
+void main() // starting the definition of main function with return datatype as void 
+{ // starting the body of the function
+     printf("Hi, My name is Priyanka"); // the instruction or instructions to be grouped for execution
+     printf("\n I have completed my graduadtion from The Bhopal School of Social Sciences in BCA course");
+} // ending the body of the function
