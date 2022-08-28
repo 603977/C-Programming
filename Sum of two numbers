@@ -1,0 +1,11 @@
+// C program to add two numbers
+#include<stdio.h>                                            // inclusion of header files
+int main()                                                  // starting the definition of main function with datatype as int 
+{                                                          // starting the body of the function
+    int number1, number2, sum;                            // declaring 3 variables to get the sum of desired number
+    printf("Enter two integers");                        // asking user to enter two numbers
+    scanf("%d %d", &number1, &number2");                // getting input from the user 
+    sum = number1 + number2;                           // calculating addition of two numbers using '+' operator
+    printf("Sum of number1 and number2 is: %d", sum); // printing sum to the screen
+    return 0;
+}                                                   // closing the body of the function
