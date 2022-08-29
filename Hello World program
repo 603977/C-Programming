@@ -1,6 +1,0 @@
-#include<stdio.h> // inclusion of header file
-int main // starting the definition of main function with datatype as int
-{ // starting the body of program
-     printf(" Hello World! "); //printing the formatted output to the screen
-     return 0; // exit statement of the program
-} // closing the body of program
